@@ -1,4 +1,4 @@
-###📜 ORIELLE Bot – Dokumentasi
+#📜 ORIELLE Bot – Dokumentasi
 
 Selamat datang di dokumentasi ORIELLE, bot WhatsApp multifungsi dengan sistem RPG, manajemen pengguna, limit harian, dan koneksi database SQLite. Bot ini dirancang untuk memberikan pengalaman bermain RPG yang seru sekaligus interaksi yang "humanis" (typing delay, random respon, dll).
 
