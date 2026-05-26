@@ -1,0 +1,1707 @@
+[
+  {
+    "kata": "KUCING",
+    "clue": "Hewan peliharaan yang suka mengeong.",
+    "waktu": 30
+  },
+  {
+    "kata": "MEJA",
+    "clue": "Tempat untuk meletakkan barang, biasanya di rumah.",
+    "waktu": 20
+  },
+  {
+    "kata": "BUKU",
+    "clue": "Benda yang berisi tulisan untuk dibaca.",
+    "waktu": 25
+  },
+  {
+    "kata": "MANGGA",
+    "clue": "Buah manis yang harum, sering dijadikan jus.",
+    "waktu": 30
+  },
+  {
+    "kata": "KOMPAS",
+    "clue": "Alat penunjuk arah.",
+    "waktu": 25
+  },
+  {
+    "kata": "JAMBU",
+    "clue": "Buah yang sering dijadikan rujak.",
+    "waktu": 20
+  },
+  {
+    "kata": "KUNCI",
+    "clue": "Benda untuk membuka gembok.",
+    "waktu": 20
+  },
+  {
+    "kata": "SEPATU",
+    "clue": "Alas kaki.",
+    "waktu": 25
+  },
+  {
+    "kata": "TAHUN",
+    "clue": "Satuan waktu 12 bulan.",
+    "waktu": 20
+  },
+  {
+    "kata": "PULAU",
+    "clue": "Daratan yang dikelilingi air.",
+    "waktu": 25
+  },
+  {
+    "kata": "PAPAN",
+    "clue": "Permukaan datar dari kayu.",
+    "waktu": 20
+  },
+  {
+    "kata": "KERTAS",
+    "clue": "Bahan tipis untuk menulis.",
+    "waktu": 20
+  },
+  {
+    "kata": "LAMPU",
+    "clue": "Alat penerang ruangan.",
+    "waktu": 20
+  },
+  {
+    "kata": "KAMERA",
+    "clue": "Alat untuk mengambil gambar.",
+    "waktu": 25
+  },
+  {
+    "kata": "JALAN",
+    "clue": "Tempat untuk melintas.",
+    "waktu": 20
+  },
+  {
+    "kata": "GERIMIS",
+    "clue": "Hujan rintik-rintik.",
+    "waktu": 30
+  },
+  {
+    "kata": "LAPTOP",
+    "clue": "Komputer portabel.",
+    "waktu": 25
+  },
+  {
+    "kata": "TASIK",
+    "clue": "Wadah untuk membawa barang.",
+    "waktu": 20
+  },
+  {
+    "kata": "CANGKIR",
+    "clue": "Tempat minum kopi atau teh.",
+    "waktu": 25
+  },
+  {
+    "kata": "REMOTE",
+    "clue": "Alat pengendali jarak jauh.",
+    "waktu": 25
+  },
+  {
+    "kata": "SENYUM",
+    "clue": "Ekspresi wajah yang ramah.",
+    "waktu": 20
+  },
+  {
+    "kata": "PENSIL",
+    "clue": "Alat tulis yang terbuat dari kayu.",
+    "waktu": 20
+  },
+  {
+    "kata": "JURNAL",
+    "clue": "Buku catatan harian.",
+    "waktu": 25
+  },
+  {
+    "kata": "KELAS",
+    "clue": "Ruangan belajar di sekolah.",
+    "waktu": 20
+  },
+  {
+    "kata": "TEMAN",
+    "clue": "Orang yang dekat dengan kita.",
+    "waktu": 20
+  },
+  {
+    "kata": "MIMPI",
+    "clue": "Pengalaman saat tidur.",
+    "waktu": 20
+  },
+  {
+    "kata": "SINAR",
+    "clue": "Cahaya yang terang.",
+    "waktu": 20
+  },
+  {
+    "kata": "OMBAK",
+    "clue": "Gelombang air laut.",
+    "waktu": 25
+  },
+  {
+    "kata": "PELANGI",
+    "clue": "Fenomena warna-warni setelah hujan.",
+    "waktu": 30
+  },
+  {
+    "kata": "BELANJA",
+    "clue": "Kegiatan membeli barang.",
+    "waktu": 25
+  },
+  {
+    "kata": "ANJING",
+    "clue": "Hewan peliharaan yang setia.",
+    "waktu": 25
+  },
+  {
+    "kata": "BUNGA",
+    "clue": "Bagian tumbuhan yang berwarna-warni.",
+    "waktu": 20
+  },
+  {
+    "kata": "ROTI",
+    "clue": "Makanan dari tepung yang dipanggang.",
+    "waktu": 20
+  },
+  {
+    "kata": "SUSU",
+    "clue": "Minuman putih dari sapi.",
+    "waktu": 20
+  },
+  {
+    "kata": "GULA",
+    "clue": "Pemanis makanan.",
+    "waktu": 20
+  },
+  {
+    "kata": "GARAM",
+    "clue": "Bumbu asin.",
+    "waktu": 20
+  },
+  {
+    "kata": "TELUR",
+    "clue": "Makanan dari unggas yang bulat.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAPI",
+    "clue": "Hewan penghasil susu.",
+    "waktu": 25
+  },
+  {
+    "kata": "KAMBING",
+    "clue": "Hewan pemakan rumput yang punya janggut.",
+    "waktu": 25
+  },
+  {
+    "kata": "KERBAU",
+    "clue": "Hewan besar yang suka berendam di lumpur.",
+    "waktu": 30
+  },
+  {
+    "kata": "ULAR",
+    "clue": "Hewan melata tanpa kaki.",
+    "waktu": 25
+  },
+  {
+    "kata": "KURA",
+    "clue": "Hewan berumur panjang dengan cangkang.",
+    "waktu": 25
+  },
+  {
+    "kata": "GURITA",
+    "clue": "Hewan laut bertentakel.",
+    "waktu": 25
+  },
+  {
+    "kata": "KEPITING",
+    "clue": "Hewan laut dengan capit.",
+    "waktu": 25
+  },
+  {
+    "kata": "LALAT",
+    "clue": "Serangga yang suka hinggap di makanan.",
+    "waktu": 20
+  },
+  {
+    "kata": "NYAMUK",
+    "clue": "Serangga penghisap darah.",
+    "waktu": 20
+  },
+  {
+    "kata": "LEBAH",
+    "clue": "Serangga penghasil madu.",
+    "waktu": 20
+  },
+  {
+    "kata": "SEMUT",
+    "clue": "Serangga kecil yang hidup berkoloni.",
+    "waktu": 20
+  },
+  {
+    "kata": "KUPUKUPU",
+    "clue": "Serangga bersayap indah.",
+    "waktu": 25
+  },
+  {
+    "kata": "LUMBALUMBA",
+    "clue": "Mamalia laut yang pintar.",
+    "waktu": 30
+  },
+  {
+    "kata": "PESAWAT",
+    "clue": "Kendaraan terbang.",
+    "waktu": 20
+  },
+  {
+    "kata": "MOBIL",
+    "clue": "Kendaraan beroda empat.",
+    "waktu": 20
+  },
+  {
+    "kata": "MOTOR",
+    "clue": "Kendaraan beroda dua.",
+    "waktu": 20
+  },
+  {
+    "kata": "KERETA",
+    "clue": "Kendaraan rel.",
+    "waktu": 20
+  },
+  {
+    "kata": "BANTAL",
+    "clue": "Alas kepala saat tidur.",
+    "waktu": 20
+  },
+  {
+    "kata": "SELIMUT",
+    "clue": "Kain penutup tubuh saat tidur.",
+    "waktu": 20
+  },
+  {
+    "kata": "KASUR",
+    "clue": "Tempat tidur yang empuk.",
+    "waktu": 20
+  },
+  {
+    "kata": "GORDEN",
+    "clue": "Kain penutup jendela.",
+    "waktu": 25
+  },
+  {
+    "kata": "JENDELA",
+    "clue": "Lubang untuk keluar masuk udara di rumah.",
+    "waktu": 20
+  },
+  {
+    "kata": "PINTU",
+    "clue": "Tempat masuk ke dalam ruangan.",
+    "waktu": 20
+  },
+  {
+    "kata": "ATAP",
+    "clue": "Penutup bagian atas rumah.",
+    "waktu": 20
+  },
+  {
+    "kata": "LANTAI",
+    "clue": "Alas ruangan untuk berpijak.",
+    "waktu": 20
+  },
+  {
+    "kata": "DINDING",
+    "clue": "Pembatas ruangan.",
+    "waktu": 20
+  },
+  {
+    "kata": "TANGGA",
+    "clue": "Anak tangga untuk naik.",
+    "waktu": 20
+  },
+  {
+    "kata": "TISU",
+    "clue": "Kertas lembut untuk membersihkan.",
+    "waktu": 20
+  },
+  {
+    "kata": "SABUN",
+    "clue": "Pembersih tubuh.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAMPUL",
+    "clue": "Pembungkus buku.",
+    "waktu": 25
+  },
+  {
+    "kata": "PENA",
+    "clue": "Alat tulis bertinta.",
+    "waktu": 20
+  },
+  {
+    "kata": "PENGHAPUS",
+    "clue": "Alat menghilangkan tulisan pensil.",
+    "waktu": 25
+  },
+  {
+    "kata": "PENAJAM",
+    "clue": "Alat meruncingkan pensil.",
+    "waktu": 25
+  },
+  {
+    "kata": "PENGGARIS",
+    "clue": "Alat ukur lurus.",
+    "waktu": 20
+  },
+  {
+    "kata": "JAM",
+    "clue": "Penunjuk waktu.",
+    "waktu": 20
+  },
+  {
+    "kata": "KALENDER",
+    "clue": "Penanggalan.",
+    "waktu": 25
+  },
+  {
+    "kata": "PETA",
+    "clue": "Gambar permukaan bumi.",
+    "waktu": 25
+  },
+  {
+    "kata": "GLOBE",
+    "clue": "Miniatur bola bumi.",
+    "waktu": 30
+  },
+  {
+    "kata": "KOMPUTER",
+    "clue": "Alat elektronik untuk mengolah data.",
+    "waktu": 25
+  },
+  {
+    "kata": "TELEPON",
+    "clue": "Alat komunikasi jarak jauh.",
+    "waktu": 20
+  },
+  {
+    "kata": "TELEVISI",
+    "clue": "Alat untuk menonton siaran.",
+    "waktu": 20
+  },
+  {
+    "kata": "RADIO",
+    "clue": "Alat untuk mendengarkan siaran.",
+    "waktu": 20
+  },
+  {
+    "kata": "KULKAS",
+    "clue": "Lemari pendingin.",
+    "waktu": 25
+  },
+  {
+    "kata": "BLENDER",
+    "clue": "Alat penghalus makanan.",
+    "waktu": 25
+  },
+  {
+    "kata": "OVEN",
+    "clue": "Alat pemanggang.",
+    "waktu": 25
+  },
+  {
+    "kata": "KIPAS",
+    "clue": "Alat pembuat angin.",
+    "waktu": 20
+  },
+  {
+    "kata": "AC",
+    "clue": "Pendingin ruangan.",
+    "waktu": 25
+  },
+  {
+    "kata": "KOLAM",
+    "clue": "Tempat berenang.",
+    "waktu": 20
+  },
+  {
+    "kata": "TAMAN",
+    "clue": "Tempat rekreasi dengan tanaman.",
+    "waktu": 20
+  },
+  {
+    "kata": "KANTOR",
+    "clue": "Tempat bekerja.",
+    "waktu": 20
+  },
+  {
+    "kata": "RUMAH",
+    "clue": "Tempat tinggal.",
+    "waktu": 20
+  },
+  {
+    "kata": "SEKOLAH",
+    "clue": "Tempat belajar.",
+    "waktu": 20
+  },
+  {
+    "kata": "PASAR",
+    "clue": "Tempat jual beli.",
+    "waktu": 20
+  },
+  {
+    "kata": "MALL",
+    "clue": "Pusat perbelanjaan besar.",
+    "waktu": 20
+  },
+  {
+    "kata": "BANK",
+    "clue": "Tempat menyimpan uang.",
+    "waktu": 20
+  },
+  {
+    "kata": "HOTEL",
+    "clue": "Tempat menginap saat bepergian.",
+    "waktu": 20
+  },
+  {
+    "kata": "GEREJA",
+    "clue": "Tempat ibadah umat Kristen.",
+    "waktu": 25
+  },
+  {
+    "kata": "MASJID",
+    "clue": "Tempat ibadah umat Islam.",
+    "waktu": 25
+  },
+  {
+    "kata": "PURA",
+    "clue": "Tempat ibadah umat Hindu.",
+    "waktu": 30
+  },
+  {
+    "kata": "VIHARA",
+    "clue": "Tempat ibadah umat Buddha.",
+    "waktu": 30
+  },
+  {
+    "kata": "KELENTENG",
+    "clue": "Tempat ibadah umat Konghucu.",
+    "waktu": 30
+  },
+  {
+    "kata": "KANTIN",
+    "clue": "Tempat menjual makanan di sekolah.",
+    "waktu": 20
+  },
+  {
+    "kata": "TOILET",
+    "clue": "Kamar kecil.",
+    "waktu": 20
+  },
+  {
+    "kata": "KAMAR",
+    "clue": "Ruangan dalam rumah.",
+    "waktu": 20
+  },
+  {
+    "kata": "RUANG",
+    "clue": "Bagian dari bangunan.",
+    "waktu": 20
+  },
+  {
+    "kata": "MATA",
+    "clue": "Alat indera penglihatan.",
+    "waktu": 20
+  },
+  {
+    "kata": "TELINGA",
+    "clue": "Alat indera pendengaran.",
+    "waktu": 20
+  },
+  {
+    "kata": "HIDUNG",
+    "clue": "Alat indera penciuman.",
+    "waktu": 20
+  },
+  {
+    "kata": "LIDAH",
+    "clue": "Alat indera perasa.",
+    "waktu": 25
+  },
+  {
+    "kata": "KULIT",
+    "clue": "Alat indera peraba.",
+    "waktu": 20
+  },
+  {
+    "kata": "KAKI",
+    "clue": "Anggota tubuh untuk berjalan.",
+    "waktu": 20
+  },
+  {
+    "kata": "TANGAN",
+    "clue": "Anggota tubuh untuk memegang.",
+    "waktu": 20
+  },
+  {
+    "kata": "KEPALA",
+    "clue": "Bagian tubuh paling atas.",
+    "waktu": 20
+  },
+  {
+    "kata": "RAMBUT",
+    "clue": "Tumbuh di kepala.",
+    "waktu": 20
+  },
+  {
+    "kata": "GIGI",
+    "clue": "Untuk mengunyah makanan.",
+    "waktu": 20
+  },
+  {
+    "kata": "MULUT",
+    "clue": "Tempat masuknya makanan.",
+    "waktu": 20
+  },
+  {
+    "kata": "LEHER",
+    "clue": "Penghubung kepala dan badan.",
+    "waktu": 25
+  },
+  {
+    "kata": "PUNGGUNG",
+    "clue": "Bagian belakang tubuh.",
+    "waktu": 25
+  },
+  {
+    "kata": "PERUT",
+    "clue": "Bagian tubuh yang berisi organ pencernaan.",
+    "waktu": 20
+  },
+  {
+    "kata": "DOKTER",
+    "clue": "Profesi penyembuh pasien.",
+    "waktu": 20
+  },
+  {
+    "kata": "SUSTER",
+    "clue": "Perawat.",
+    "waktu": 25
+  },
+  {
+    "kata": "POLISI",
+    "clue": "Penegak hukum.",
+    "waktu": 20
+  },
+  {
+    "kata": "TENTARA",
+    "clue": "Anggota militer.",
+    "waktu": 20
+  },
+  {
+    "kata": "GURU",
+    "clue": "Pengajar di sekolah.",
+    "waktu": 20
+  },
+  {
+    "kata": "SISWA",
+    "clue": "Peserta didik.",
+    "waktu": 20
+  },
+  {
+    "kata": "PELAJAR",
+    "clue": "Anak sekolah.",
+    "waktu": 25
+  },
+  {
+    "kata": "PENULIS",
+    "clue": "Orang yang mengarang.",
+    "waktu": 25
+  },
+  {
+    "kata": "PELUKIS",
+    "clue": "Seniman gambar.",
+    "waktu": 25
+  },
+  {
+    "kata": "PENYANYI",
+    "clue": "Orang yang bernyanyi.",
+    "waktu": 20
+  },
+  {
+    "kata": "PEMAIN",
+    "clue": "Orang yang bermain.",
+    "waktu": 20
+  },
+  {
+    "kata": "AKTOR",
+    "clue": "Pemeran film.",
+    "waktu": 25
+  },
+  {
+    "kata": "AKTRIS",
+    "clue": "Pemeran wanita.",
+    "waktu": 25
+  },
+  {
+    "kata": "KIPER",
+    "clue": "Penjaga gawang.",
+    "waktu": 25
+  },
+  {
+    "kata": "WARTAWAN",
+    "clue": "Pencari berita.",
+    "waktu": 30
+  },
+  {
+    "kata": "PENGACARA",
+    "clue": "Pembela hukum.",
+    "waktu": 25
+  },
+  {
+    "kata": "HAKIM",
+    "clue": "Pemutus perkara di pengadilan.",
+    "waktu": 30
+  },
+  {
+    "kata": "JAKSA",
+    "clue": "Penuntut umum.",
+    "waktu": 30
+  },
+  {
+    "kata": "NELAYAN",
+    "clue": "Pencari ikan.",
+    "waktu": 25
+  },
+  {
+    "kata": "PETANI",
+    "clue": "Penggarap sawah.",
+    "waktu": 20
+  },
+  {
+    "kata": "PETERNAK",
+    "clue": "Pemelihara hewan ternak.",
+    "waktu": 25
+  },
+  {
+    "kata": "PENGEMUDI",
+    "clue": "Orang yang menjalankan kendaraan.",
+    "waktu": 25
+  },
+  {
+    "kata": "PELAYAN",
+    "clue": "Orang yang melayani pembeli.",
+    "waktu": 20
+  },
+  {
+    "kata": "PENGRAJIN",
+    "clue": "Pembuat barang kerajinan.",
+    "waktu": 30
+  },
+  {
+    "kata": "PEDAGANG",
+    "clue": "Penjual barang.",
+    "waktu": 25
+  },
+  {
+    "kata": "PEMBELI",
+    "clue": "Orang yang membeli.",
+    "waktu": 20
+  },
+  {
+    "kata": "PEMULUNG",
+    "clue": "Pencari barang bekas.",
+    "waktu": 30
+  },
+  {
+    "kata": "PENGANGGUR",
+    "clue": "Orang yang tidak bekerja.",
+    "waktu": 30
+  },
+  {
+    "kata": "BULAN",
+    "clue": "Benda langit yang bersinar malam hari.",
+    "waktu": 20
+  },
+  {
+    "kata": "BINTANG",
+    "clue": "Benda langit yang bercahaya.",
+    "waktu": 20
+  },
+  {
+    "kata": "MATAHARI",
+    "clue": "Sumber cahaya utama Bumi.",
+    "waktu": 25
+  },
+  {
+    "kata": "BUMI",
+    "clue": "Planet tempat tinggal manusia.",
+    "waktu": 25
+  },
+  {
+    "kata": "PLANET",
+    "clue": "Benda langit yang mengelilingi matahari.",
+    "waktu": 25
+  },
+  {
+    "kata": "METEOR",
+    "clue": "Batu luar angkasa.",
+    "waktu": 30
+  },
+  {
+    "kata": "KOMET",
+    "clue": "Benda langit berekor.",
+    "waktu": 30
+  },
+  {
+    "kata": "HUJAN",
+    "clue": "Air yang jatuh dari langit.",
+    "waktu": 20
+  },
+  {
+    "kata": "PETIR",
+    "clue": "Kilat disertai suara.",
+    "waktu": 25
+  },
+  {
+    "kata": "GUNTUR",
+    "clue": "Suara petir.",
+    "waktu": 25
+  },
+  {
+    "kata": "ANGIN",
+    "clue": "Udara bergerak.",
+    "waktu": 20
+  },
+  {
+    "kata": "TOPAN",
+    "clue": "Angin kencang.",
+    "waktu": 25
+  },
+  {
+    "kata": "AWAN",
+    "clue": "Kumpulan uap air di langit.",
+    "waktu": 20
+  },
+  {
+    "kata": "KABUT",
+    "clue": "Uap air dekat permukaan.",
+    "waktu": 25
+  },
+  {
+    "kata": "EMBUN",
+    "clue": "Titik air pagi hari.",
+    "waktu": 25
+  },
+  {
+    "kata": "SALJU",
+    "clue": "Butiran es dari langit.",
+    "waktu": 25
+  },
+  {
+    "kata": "ES",
+    "clue": "Air membeku.",
+    "waktu": 20
+  },
+  {
+    "kata": "BATU",
+    "clue": "Benda keras dari tanah.",
+    "waktu": 20
+  },
+  {
+    "kata": "GUNUNG",
+    "clue": "Permukaan bumi yang menjulang tinggi.",
+    "waktu": 20
+  },
+  {
+    "kata": "LEMBAH",
+    "clue": "Cekungan di antara gunung.",
+    "waktu": 25
+  },
+  {
+    "kata": "SUNGAI",
+    "clue": "Aliran air tawar.",
+    "waktu": 20
+  },
+  {
+    "kata": "DANAU",
+    "clue": "Genangan air luas.",
+    "waktu": 20
+  },
+  {
+    "kata": "LAUT",
+    "clue": "Kumpulan air asin.",
+    "waktu": 20
+  },
+  {
+    "kata": "PANTAI",
+    "clue": "Tepi laut.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAMUDRA",
+    "clue": "Lautan luas.",
+    "waktu": 30
+  },
+  {
+    "kata": "HUTAN",
+    "clue": "Lahan penuh pepohonan.",
+    "waktu": 20
+  },
+  {
+    "kata": "KEBUN",
+    "clue": "Lahan ditanami.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAWAH",
+    "clue": "Lahan bertanam padi.",
+    "waktu": 20
+  },
+  {
+    "kata": "LADANG",
+    "clue": "Lahan kering bertanam.",
+    "waktu": 25
+  },
+  {
+    "kata": "PADANG",
+    "clue": "Lapangan rumput.",
+    "waktu": 25
+  },
+  {
+    "kata": "GURUN",
+    "clue": "Daerah sangat kering berpasir.",
+    "waktu": 30
+  },
+  {
+    "kata": "TANAH",
+    "clue": "Permukaan bumi.",
+    "waktu": 20
+  },
+  {
+    "kata": "PASIR",
+    "clue": "Butiran halus di pantai.",
+    "waktu": 20
+  },
+  {
+    "kata": "LUMPUR",
+    "clue": "Tanah bercampur air.",
+    "waktu": 25
+  },
+  {
+    "kata": "DEBU",
+    "clue": "Partikel halus.",
+    "waktu": 25
+  },
+  {
+    "kata": "API",
+    "clue": "Panas dan cahaya dari pembakaran.",
+    "waktu": 20
+  },
+  {
+    "kata": "ASAP",
+    "clue": "Hasil pembakaran berwarna abu.",
+    "waktu": 20
+  },
+  {
+    "kata": "AIR",
+    "clue": "Zat cair tak berwarna.",
+    "waktu": 20
+  },
+  {
+    "kata": "UDARA",
+    "clue": "Campuran gas di atmosfer.",
+    "waktu": 20
+  },
+  {
+    "kata": "TANAMAN",
+    "clue": "Makhluk hidup berdaun.",
+    "waktu": 25
+  },
+  {
+    "kata": "POHON",
+    "clue": "Tumbuhan berkayu tinggi.",
+    "waktu": 20
+  },
+  {
+    "kata": "DAUN",
+    "clue": "Bagian tumbuhan hijau.",
+    "waktu": 20
+  },
+  {
+    "kata": "BATANG",
+    "clue": "Bagian tumbuhan penopang.",
+    "waktu": 25
+  },
+  {
+    "kata": "AKAR",
+    "clue": "Bagian tumbuhan di dalam tanah.",
+    "waktu": 25
+  },
+  {
+    "kata": "BUAH",
+    "clue": "Hasil tumbuhan yang bisa dimakan.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAYUR",
+    "clue": "Tanaman pangan non-buah.",
+    "waktu": 20
+  },
+  {
+    "kata": "DAGING",
+    "clue": "Otot hewan untuk konsumsi.",
+    "waktu": 25
+  },
+  {
+    "kata": "IKAN",
+    "clue": "Hewan air.",
+    "waktu": 20
+  },
+  {
+    "kata": "AYAM",
+    "clue": "Unggas yang sering diternakkan.",
+    "waktu": 20
+  },
+  {
+    "kata": "ITIK",
+    "clue": "Unggas yang suka berenang.",
+    "waktu": 25
+  },
+  {
+    "kata": "BEBEK",
+    "clue": "Unggas jinak yang biasa diambil telurnya.",
+    "waktu": 25
+  },
+  {
+    "kata": "ANGSA",
+    "clue": "Unggas berleher panjang.",
+    "waktu": 30
+  },
+  {
+    "kata": "KALKUN",
+    "clue": "Unggas besar untuk hidangan.",
+    "waktu": 30
+  },
+  {
+    "kata": "MERAK",
+    "clue": "Burung dengan bulu indah.",
+    "waktu": 25
+  },
+  {
+    "kata": "ELANG",
+    "clue": "Burung pemangsa.",
+    "waktu": 25
+  },
+  {
+    "kata": "GAGAK",
+    "clue": "Burung hitam.",
+    "waktu": 20
+  },
+  {
+    "kata": "BURUNG",
+    "clue": "Hewan berbulu yang bisa terbang.",
+    "waktu": 20
+  },
+  {
+    "kata": "KELELAWAR",
+    "clue": "Mamalia terbang malam hari.",
+    "waktu": 30
+  },
+  {
+    "kata": "KUDA",
+    "clue": "Hewan tunggangan.",
+    "waktu": 20
+  },
+  {
+    "kata": "KELEDAI",
+    "clue": "Hewan mirip kuda kecil.",
+    "waktu": 25
+  },
+  {
+    "kata": "ZEBRA",
+    "clue": "Kuda belang hitam putih.",
+    "waktu": 25
+  },
+  {
+    "kata": "JERAPAH",
+    "clue": "Hewan berleher panjang.",
+    "waktu": 25
+  },
+  {
+    "kata": "GAJAH",
+    "clue": "Hewan besar berbelalai.",
+    "waktu": 25
+  },
+  {
+    "kata": "BADAK",
+    "clue": "Hewan berkulit tebal bertanduk.",
+    "waktu": 25
+  },
+  {
+    "kata": "HARIMAU",
+    "clue": "Kucing besar bercorak loreng.",
+    "waktu": 25
+  },
+  {
+    "kata": "SINGA",
+    "clue": "Raja hutan.",
+    "waktu": 20
+  },
+  {
+    "kata": "BERUANG",
+    "clue": "Hewan besar berbulu tebal.",
+    "waktu": 25
+  },
+  {
+    "kata": "PANDA",
+    "clue": "Beruang hitam putih dari Tiongkok.",
+    "waktu": 30
+  },
+  {
+    "kata": "KOALA",
+    "clue": "Hewan berkantung pemakan eukaliptus.",
+    "waktu": 30
+  },
+  {
+    "kata": "KANGURU",
+    "clue": "Hewan berkantung dari Australia.",
+    "waktu": 30
+  },
+  {
+    "kata": "MONYET",
+    "clue": "Primata berekor.",
+    "waktu": 25
+  },
+  {
+    "kata": "GORILA",
+    "clue": "Primata besar tanpa ekor.",
+    "waktu": 30
+  },
+  {
+    "kata": "ORANGUTAN",
+    "clue": "Primata besar dari Kalimantan.",
+    "waktu": 30
+  },
+  {
+    "kata": "KAPAL",
+    "clue": "Kendaraan laut besar.",
+    "waktu": 20
+  },
+  {
+    "kata": "PERAHU",
+    "clue": "Kendaraan air kecil.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAMPAN",
+    "clue": "Perahu kecil dari kayu.",
+    "waktu": 25
+  },
+  {
+    "kata": "DAYUNG",
+    "clue": "Alat penggerak perahu.",
+    "waktu": 25
+  },
+  {
+    "kata": "PELAMPUNG",
+    "clue": "Alat pengapung.",
+    "waktu": 30
+  },
+  {
+    "kata": "PELURU",
+    "clue": "Amunisi senjata.",
+    "waktu": 25
+  },
+  {
+    "kata": "SENAPAN",
+    "clue": "Senjata api panjang.",
+    "waktu": 30
+  },
+  {
+    "kata": "PISTOL",
+    "clue": "Senjata api pendek.",
+    "waktu": 25
+  },
+  {
+    "kata": "PISAU",
+    "clue": "Alat pemotong.",
+    "waktu": 20
+  },
+  {
+    "kata": "GUNTING",
+    "clue": "Alat pemotong kain/kertas.",
+    "waktu": 20
+  },
+  {
+    "kata": "OBENG",
+    "clue": "Alat memutar sekrup.",
+    "waktu": 25
+  },
+  {
+    "kata": "PALU",
+    "clue": "Alat pemukul.",
+    "waktu": 20
+  },
+  {
+    "kata": "PAKU",
+    "clue": "Benda tajam untuk menyambung kayu.",
+    "waktu": 20
+  },
+  {
+    "kata": "SEKRUP",
+    "clue": "Benda berulir untuk mengencangkan.",
+    "waktu": 30
+  },
+  {
+    "kata": "MUR",
+    "clue": "Pasangan baut.",
+    "waktu": 30
+  },
+  {
+    "kata": "BAUT",
+    "clue": "Batang berulir dengan kepala.",
+    "waktu": 25
+  },
+  {
+    "kata": "TALI",
+    "clue": "Benda panjang untuk mengikat.",
+    "waktu": 20
+  },
+  {
+    "kata": "KARUNG",
+    "clue": "Wadah besar dari goni.",
+    "waktu": 25
+  },
+  {
+    "kata": "EMAS",
+    "clue": "Logam mulia berwarna kuning.",
+    "waktu": 25
+  },
+  {
+    "kata": "PERAK",
+    "clue": "Logam putih berkilau.",
+    "waktu": 25
+  },
+  {
+    "kata": "BERLIAN",
+    "clue": "Batu mulia bening.",
+    "waktu": 30
+  },
+  {
+    "kata": "INTAN",
+    "clue": "Batu berharga.",
+    "waktu": 30
+  },
+  {
+    "kata": "PERMATA",
+    "clue": "Batu mulia.",
+    "waktu": 25
+  },
+  {
+    "kata": "KALUNG",
+    "clue": "Perhiasan leher.",
+    "waktu": 20
+  },
+  {
+    "kata": "GELANG",
+    "clue": "Perhiasan tangan.",
+    "waktu": 20
+  },
+  {
+    "kata": "CINCIN",
+    "clue": "Perhiasan jari.",
+    "waktu": 20
+  },
+  {
+    "kata": "ANTING",
+    "clue": "Perhiasan telinga.",
+    "waktu": 25
+  },
+  {
+    "kata": "MAHKOTA",
+    "clue": "Hiasan kepala raja.",
+    "waktu": 25
+  },
+  {
+    "kata": "ROKOK",
+    "clue": "Gulungan tembakau.",
+    "waktu": 25
+  },
+  {
+    "kata": "KOREK",
+    "clue": "Alat penghasil api kecil.",
+    "waktu": 25
+  },
+  {
+    "kata": "LILIN",
+    "clue": "Penerang dari sumbu.",
+    "waktu": 25
+  },
+  {
+    "kata": "PELITA",
+    "clue": "Lampu minyak jaman dulu.",
+    "waktu": 30
+  },
+  {
+    "kata": "OBOR",
+    "clue": "Suluh dari api.",
+    "waktu": 25
+  },
+  {
+    "kata": "SENTER",
+    "clue": "Lampu portabel bertenaga baterai.",
+    "waktu": 20
+  },
+  {
+    "kata": "BATERAI",
+    "clue": "Sumber daya listrik kecil.",
+    "waktu": 25
+  },
+  {
+    "kata": "LISTRIK",
+    "clue": "Energi untuk menyalakan alat.",
+    "waktu": 20
+  },
+  {
+    "kata": "KABEL",
+    "clue": "Penghantar listrik.",
+    "waktu": 20
+  },
+  {
+    "kata": "SAKLAR",
+    "clue": "Pemutus aliran listrik.",
+    "waktu": 30
+  },
+  {
+    "kata": "STOPKONTAK",
+    "clue": "Tempat mencolokkan colokan listrik.",
+    "waktu": 30
+  },
+  {
+    "kata": "STEKER",
+    "clue": "Alat penghubung listrik.",
+    "waktu": 25
+  },
+  {
+    "kata": "TABUNG",
+    "clue": "Wadah silinder.",
+    "waktu": 20
+  },
+  {
+    "kata": "GELAS",
+    "clue": "Wadah minum dari kaca.",
+    "waktu": 20
+  },
+  {
+    "kata": "BOTOL",
+    "clue": "Wadah cairan berleher.",
+    "waktu": 20
+  },
+  {
+    "kata": "PIRING",
+    "clue": "Alat makan datar.",
+    "waktu": 20
+  },
+  {
+    "kata": "SENDOK",
+    "clue": "Alat makan untuk menyendok.",
+    "waktu": 20
+  },
+  {
+    "kata": "GARPU",
+    "clue": "Alat makan bertusuk.",
+    "waktu": 20
+  },
+  {
+    "kata": "MANGKOK",
+    "clue": "Wadah makanan cekung.",
+    "waktu": 20
+  },
+  {
+    "kata": "KUALI",
+    "clue": "Alat masak besar.",
+    "waktu": 25
+  },
+  {
+    "kata": "PANCI",
+    "clue": "Alat masak logam.",
+    "waktu": 20
+  },
+  {
+    "kata": "WOK",
+    "clue": "Wajan besar untuk menumis.",
+    "waktu": 25
+  },
+  {
+    "kata": "KETEL",
+    "clue": "Alat mendidihkan air.",
+    "waktu": 25
+  },
+  {
+    "kata": "CERET",
+    "clue": "Wadah air mendidih.",
+    "waktu": 25
+  },
+  {
+    "kata": "TERMOS",
+    "clue": "Tempat menyimpan air panas.",
+    "waktu": 25
+  },
+  {
+    "kata": "TALENAN",
+    "clue": "Alas untuk memotong bahan masakan.",
+    "waktu": 30
+  },
+  {
+    "kata": "PARUT",
+    "clue": "Alat pemarut.",
+    "waktu": 25
+  },
+  {
+    "kata": "SEROKAN",
+    "clue": "Alat untuk menyerok.",
+    "waktu": 30
+  },
+  {
+    "kata": "SAPU",
+    "clue": "Alat pembersih lantai.",
+    "waktu": 20
+  },
+  {
+    "kata": "PEL",
+    "clue": "Kain pembersih lantai.",
+    "waktu": 25
+  },
+  {
+    "kata": "EMBER",
+    "clue": "Wadah air.",
+    "waktu": 20
+  },
+  {
+    "kata": "GAYUNG",
+    "clue": "Alat menciduk air.",
+    "waktu": 25
+  },
+  {
+    "kata": "KERAN",
+    "clue": "Tempat keluar air.",
+    "waktu": 25
+  },
+  {
+    "kata": "POMPA",
+    "clue": "Alat penyedot air.",
+    "waktu": 25
+  },
+  {
+    "kata": "SELANG",
+    "clue": "Pipa lentur air.",
+    "waktu": 25
+  },
+  {
+    "kata": "TANG",
+    "clue": "Alat penjepit kawat.",
+    "waktu": 25
+  },
+  {
+    "kata": "CATUT",
+    "clue": "Alat pencabut paku.",
+    "waktu": 30
+  },
+  {
+    "kata": "BOR",
+    "clue": "Alat pelubang.",
+    "waktu": 25
+  },
+  {
+    "kata": "GERGAJI",
+    "clue": "Alat pemotong kayu.",
+    "waktu": 25
+  },
+  {
+    "kata": "KAPAK",
+    "clue": "Alat potong kayu besar.",
+    "waktu": 25
+  },
+  {
+    "kata": "CANGKUL",
+    "clue": "Alat penggali tanah.",
+    "waktu": 25
+  },
+  {
+    "kata": "SEKOP",
+    "clue": "Alat menggali tanah.",
+    "waktu": 25
+  },
+  {
+    "kata": "PACUL",
+    "clue": "Alat sejenis cangkul.",
+    "waktu": 30
+  },
+  {
+    "kata": "ARIT",
+    "clue": "Sabit kecil.",
+    "waktu": 25
+  },
+  {
+    "kata": "SABIT",
+    "clue": "Alat potong rumput berbentuk bulan sabit.",
+    "waktu": 30
+  },
+  {
+    "kata": "GEROBAG",
+    "clue": "Kereta dorong.",
+    "waktu": 30
+  },
+  {
+    "kata": "STROLLER",
+    "clue": "Kereta untuk bayi.",
+    "waktu": 30
+  },
+  {
+    "kata": "TAS",
+    "clue": "Wadah untuk membawa barang.",
+    "waktu": 20
+  },
+  {
+    "kata": "DOMPET",
+    "clue": "Tempat menyimpan uang.",
+    "waktu": 20
+  },
+  {
+    "kata": "KOPER",
+    "clue": "Tas besar untuk bepergian.",
+    "waktu": 25
+  },
+  {
+    "kata": "RANSEL",
+    "clue": "Tas punggung.",
+    "waktu": 25
+  },
+  {
+    "kata": "KELAMBU",
+    "clue": "Kain penutup dari nyamuk.",
+    "waktu": 30
+  },
+  {
+    "kata": "JARING",
+    "clue": "Alat penangkap ikan.",
+    "waktu": 25
+  },
+  {
+    "kata": "PANCING",
+    "clue": "Alat pancing ikan.",
+    "waktu": 25
+  },
+  {
+    "kata": "KAIL",
+    "clue": "Mata kail.",
+    "waktu": 25
+  },
+  {
+    "kata": "UMPAN",
+    "clue": "Pemikat ikan.",
+    "waktu": 25
+  },
+  {
+    "kata": "UMPET",
+    "clue": "Bermain sembunyi.",
+    "waktu": 25
+  },
+  {
+    "kata": "CONGKLAK",
+    "clue": "Permainan tradisional dengan biji.",
+    "waktu": 30
+  },
+  {
+    "kata": "CELEMEK",
+    "clue": "Pelindung pakaian saat memasak.",
+    "waktu": 30
+  },
+  {
+    "kata": "SARUNG",
+    "clue": "Kain penutup tubuh.",
+    "waktu": 20
+  },
+  {
+    "kata": "KEMEJA",
+    "clue": "Pakaian atas badan.",
+    "waktu": 20
+  },
+  {
+    "kata": "CELANA",
+    "clue": "Pakaian bawah.",
+    "waktu": 20
+  },
+  {
+    "kata": "ROK",
+    "clue": "Pakaian bawah wanita.",
+    "waktu": 20
+  },
+  {
+    "kata": "JAKET",
+    "clue": "Pakaian luar penghangat.",
+    "waktu": 20
+  },
+  {
+    "kata": "MANTEL",
+    "clue": "Jaket panjang.",
+    "waktu": 25
+  },
+  {
+    "kata": "HOODIE",
+    "clue": "Jaket bertudung.",
+    "waktu": 25
+  },
+  {
+    "kata": "TOPENG",
+    "clue": "Penutup wajah.",
+    "waktu": 25
+  },
+  {
+    "kata": "KAOS",
+    "clue": "Baju santai.",
+    "waktu": 20
+  },
+  {
+    "kata": "SANDAL",
+    "clue": "Alas kaki terbuka.",
+    "waktu": 20
+  },
+  {
+    "kata": "BOOT",
+    "clue": "Sepatu tinggi.",
+    "waktu": 25
+  },
+  {
+    "kata": "DASI",
+    "clue": "Aksesori leher formal.",
+    "waktu": 25
+  },
+  {
+    "kata": "SABUK",
+    "clue": "Ikat pinggang.",
+    "waktu": 25
+  },
+  {
+    "kata": "TOPI",
+    "clue": "Penutup kepala.",
+    "waktu": 20
+  },
+  {
+    "kata": "HELM",
+    "clue": "Pelindung kepala.",
+    "waktu": 20
+  },
+  {
+    "kata": "APEL",
+    "clue": "Buah yang sering dimakan segar.",
+    "waktu": 20
+  },
+  {
+    "kata": "JERUK",
+    "clue": "Buah asam menyegarkan.",
+    "waktu": 20
+  },
+  {
+    "kata": "PISANG",
+    "clue": "Buah panjang berkulit kuning.",
+    "waktu": 20
+  },
+  {
+    "kata": "NANAS",
+    "clue": "Buah berduri manis.",
+    "waktu": 25
+  },
+  {
+    "kata": "DURIAN",
+    "clue": "Buah berduri dengan aroma khas.",
+    "waktu": 30
+  },
+  {
+    "kata": "RAMBUTAN",
+    "clue": "Buah berambut.",
+    "waktu": 25
+  },
+  {
+    "kata": "ANGGUR",
+    "clue": "Buah kecil bergerombol.",
+    "waktu": 25
+  },
+  {
+    "kata": "SEMANGKA",
+    "clue": "Buah besar berair.",
+    "waktu": 25
+  },
+  {
+    "kata": "MELON",
+    "clue": "Buah sejenis semangka.",
+    "waktu": 25
+  },
+  {
+    "kata": "ALPUKAT",
+    "clue": "Buah lemak untuk jus.",
+    "waktu": 30
+  },
+  {
+    "kata": "PEPAYA",
+    "clue": "Buah berwarna jingga.",
+    "waktu": 25
+  },
+  {
+    "kata": "WORTEL",
+    "clue": "Sayuran oranye.",
+    "waktu": 20
+  },
+  {
+    "kata": "KENTANG",
+    "clue": "Umbi sumber karbohidrat.",
+    "waktu": 20
+  },
+  {
+    "kata": "TOMAT",
+    "clue": "Buah merah untuk masakan.",
+    "waktu": 20
+  },
+  {
+    "kata": "BAWANG",
+    "clue": "Umbi bumbu masakan.",
+    "waktu": 20
+  },
+  {
+    "kata": "CABAI",
+    "clue": "Buah pedas.",
+    "waktu": 20
+  },
+  {
+    "kata": "TERONG",
+    "clue": "Sayuran ungu.",
+    "waktu": 25
+  },
+  {
+    "kata": "JAGUNG",
+    "clue": "Tanaman biji kuning.",
+    "waktu": 20
+  },
+  {
+    "kata": "KACANG",
+    "clue": "Biji-bijian sumber protein.",
+    "waktu": 20
+  },
+  {
+    "kata": "KEDELAI",
+    "clue": "Bahan tempe.",
+    "waktu": 25
+  },
+  {
+    "kata": "TEMPE",
+    "clue": "Makanan dari kedelai.",
+    "waktu": 20
+  },
+  {
+    "kata": "TAHU",
+    "clue": "Makanan dari sari kedelai.",
+    "waktu": 20
+  }
+]

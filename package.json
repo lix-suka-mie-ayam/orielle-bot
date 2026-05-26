@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp_bot",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "×‿⁠×",
+  "license": "MIT",
+  "main": "core/connector.js",
+  "scripts": {
+    "start": "node core/main.js",
+    "test": "node core/test_cli.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "6.7.19",
+    "chalk": "5",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

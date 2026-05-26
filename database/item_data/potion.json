@@ -1,0 +1,12 @@
+{
+  "id": "potion",
+  "name": "Health Potion",
+  "description": "Ramuan merah pekat yang memulihkan 50 HP dan 20 Mana seketika.",
+  "price": 100,
+  "type": "consumable",
+  "effect": {
+    "hp": 50,
+    "mana": 20
+  },
+  "duration": 0
+}
